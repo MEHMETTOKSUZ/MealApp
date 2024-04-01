@@ -117,7 +117,7 @@
 			children = (
 				109757CB2BB82E7300F3C5D1 /* Favorite */,
 				10988E682BAC985800556F5F /* Details */,
-				109C219B2BA8AFA30087FDBE /* SearchViev */,
+				109C219B2BA8AFA30087FDBE /* SearchView */,
 				109C21982BA8AD8E0087FDBE /* Services */,
 				109C21952BA8AA840087FDBE /* Model */,
 				109C21812BA8AA340087FDBE /* AppDelegate.swift */,
@@ -147,14 +147,14 @@
 			path = Services;
 			sourceTree = "<group>";
 		};
-		109C219B2BA8AFA30087FDBE /* SearchViev */ = {
+		109C219B2BA8AFA30087FDBE /* SearchView */ = {
 			isa = PBXGroup;
 			children = (
 				109C21852BA8AA340087FDBE /* SearchViewController.swift */,
 				109C219C2BA8AFB50087FDBE /* SearchViewModel.swift */,
 				109A91CC2BAA26920041303C /* Cell */,
 			);
-			path = SearchViev;
+			path = SearchView;
 			sourceTree = "<group>";
 		};
 		10F7F7912BB83F8300C395B8 /* Cells */ = {
